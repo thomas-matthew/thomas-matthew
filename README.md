@@ -12,6 +12,7 @@ I build software systems that make complex technical knowledge easier to analyze
 
 ## Public Projects
 
+- [Agentic Legacy Modernization Lab](https://github.com/thomas-matthew/agentic-legacy-modernization-lab) - Main showcase: synthetic, public-safe legacy modernization workflow with deterministic source analysis, generated Markdown/JSON artifacts, prompt templates, evaluation rubric, and tests.
 - [WebToMarkdown](https://github.com/thomas-matthew/WebToMarkdown) - Python tooling for converting rendered web pages and Markdown files into LLM-friendly documentation artifacts.
 - [DeepResearchReports](https://github.com/thomas-matthew/DeepResearchReports) - Public research notes and prompt-engineering artifacts for AI-assisted technical analysis.
 - [ai-agents-for-beginners](https://github.com/thomas-matthew/ai-agents-for-beginners) - Fork of Microsoft learning material for AI agent foundations.
