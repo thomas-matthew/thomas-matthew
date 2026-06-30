@@ -17,6 +17,3 @@ I build software systems that make complex technical knowledge easier to analyze
 - [DeepResearchReports](https://github.com/thomas-matthew/DeepResearchReports) - Public research notes and prompt-engineering artifacts for AI-assisted technical analysis.
 - [ai-agents-for-beginners](https://github.com/thomas-matthew/ai-agents-for-beginners) - Fork of Microsoft learning material for AI agent foundations.
 
-## Portfolio Direction
-
-This profile is being shaped around public, sanitized examples. Private product code, customer data, proprietary prompts, internal architecture, and employer-sensitive implementation details do not belong in these repositories.
